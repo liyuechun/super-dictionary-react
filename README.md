@@ -1,8 +1,6 @@
 ## 星云链React版super-dictionary
 
-> 如需获取完整视频，请扫码小精灵微信。
 
-![](http://om1c35wrq.bkt.clouddn.com/%E5%B0%8F%E7%B2%BE%E7%81%B5-%E5%AE%A2%E6%9C%8D.jpeg)
 ### 1. 项目效果图
 
 ![](http://om1c35wrq.bkt.clouddn.com/Snip20180510_12.png)
@@ -36,4 +34,7 @@ $ npm install
 $ npm start
 ```
 
+### 3. 如需获取完整视频，请扫码小精灵微信。
+
+![](http://om1c35wrq.bkt.clouddn.com/%E5%B0%8F%E7%B2%BE%E7%81%B5-%E5%AE%A2%E6%9C%8D.jpeg)
 
